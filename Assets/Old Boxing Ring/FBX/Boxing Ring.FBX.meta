@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: aff664c2ba46b404db1cf087e8eb52ec
+timeCreated: 1429005223
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ring
+    100004: Rope
+    100006: Rope Support
+    100008: Rope Support Detail
+    100010: Rope Support Detail001
+    100012: Rope Support Detail002
+    100014: Rope Support Detail003
+    100016: Rope Support Detail004
+    100018: Rope Support Detail005
+    100020: Rope Support Detail006
+    100022: Rope Support Detail007
+    100024: Rope Support Detail008
+    100026: Rope Support Detail009
+    100028: Rope Support Detail010
+    100030: Rope Support Detail011
+    100032: Rope Support001
+    100034: Rope Support002
+    100036: Rope Support003
+    100038: Rope001
+    100040: Rope002
+    100042: Rope003
+    100044: Rope004
+    100046: Rope005
+    100048: Rope006
+    100050: Rope007
+    100052: Rope008
+    100054: Rope009
+    100056: Rope010
+    100058: Rope011
+    100060: Ropes_Support
+    100062: Ropes_Support001
+    100064: Ropes_Support002
+    100066: Ropes_Support003
+    400000: //RootNode
+    400002: Ring
+    400004: Rope
+    400006: Rope Support
+    400008: Rope Support Detail
+    400010: Rope Support Detail001
+    400012: Rope Support Detail002
+    400014: Rope Support Detail003
+    400016: Rope Support Detail004
+    400018: Rope Support Detail005
+    400020: Rope Support Detail006
+    400022: Rope Support Detail007
+    400024: Rope Support Detail008
+    400026: Rope Support Detail009
+    400028: Rope Support Detail010
+    400030: Rope Support Detail011
+    400032: Rope Support001
+    400034: Rope Support002
+    400036: Rope Support003
+    400038: Rope001
+    400040: Rope002
+    400042: Rope003
+    400044: Rope004
+    400046: Rope005
+    400048: Rope006
+    400050: Rope007
+    400052: Rope008
+    400054: Rope009
+    400056: Rope010
+    400058: Rope011
+    400060: Ropes_Support
+    400062: Ropes_Support001
+    400064: Ropes_Support002
+    400066: Ropes_Support003
+    2300000: Ring
+    2300002: Rope
+    2300004: Rope Support Detail
+    2300006: Rope Support Detail001
+    2300008: Rope Support Detail002
+    2300010: Rope Support Detail003
+    2300012: Rope Support Detail004
+    2300014: Rope Support Detail005
+    2300016: Rope Support Detail006
+    2300018: Rope Support Detail007
+    2300020: Rope Support Detail008
+    2300022: Rope Support Detail009
+    2300024: Rope Support Detail010
+    2300026: Rope Support Detail011
+    2300028: Rope001
+    2300030: Rope002
+    2300032: Rope003
+    2300034: Rope004
+    2300036: Rope005
+    2300038: Rope006
+    2300040: Rope007
+    2300042: Rope008
+    2300044: Rope009
+    2300046: Rope010
+    2300048: Rope011
+    2300050: Ropes_Support
+    2300052: Ropes_Support001
+    2300054: Ropes_Support002
+    2300056: Ropes_Support003
+    3300000: Ring
+    3300002: Rope
+    3300004: Rope Support Detail
+    3300006: Rope Support Detail001
+    3300008: Rope Support Detail002
+    3300010: Rope Support Detail003
+    3300012: Rope Support Detail004
+    3300014: Rope Support Detail005
+    3300016: Rope Support Detail006
+    3300018: Rope Support Detail007
+    3300020: Rope Support Detail008
+    3300022: Rope Support Detail009
+    3300024: Rope Support Detail010
+    3300026: Rope Support Detail011
+    3300028: Rope001
+    3300030: Rope002
+    3300032: Rope003
+    3300034: Rope004
+    3300036: Rope005
+    3300038: Rope006
+    3300040: Rope007
+    3300042: Rope008
+    3300044: Rope009
+    3300046: Rope010
+    3300048: Rope011
+    3300050: Ropes_Support
+    3300052: Ropes_Support001
+    3300054: Ropes_Support002
+    3300056: Ropes_Support003
+    4300000: Ring
+    4300002: Rope
+    4300004: Rope001
+    4300006: Rope002
+    4300008: Rope Support Detail
+    4300010: Rope Support Detail001
+    4300012: Rope Support Detail002
+    4300014: Ropes_Support
+    4300016: Rope Support Detail003
+    4300018: Rope Support Detail004
+    4300020: Rope Support Detail005
+    4300022: Ropes_Support001
+    4300024: Rope003
+    4300026: Rope004
+    4300028: Rope005
+    4300030: Ropes_Support002
+    4300032: Rope Support Detail006
+    4300034: Rope Support Detail007
+    4300036: Rope Support Detail008
+    4300038: Ropes_Support003
+    4300040: Rope Support Detail009
+    4300042: Rope Support Detail010
+    4300044: Rope Support Detail011
+    4300046: Rope006
+    4300048: Rope007
+    4300050: Rope008
+    4300052: Rope009
+    4300054: Rope010
+    4300056: Rope011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
